@@ -1,0 +1,42 @@
+DOCUMENTATION----->
+------------------------------------------
+Application name -> Dservice for
+                    Men & Women
+M
+------------------------------------------
+Functionalities of Application user side:
+
+1.) sign up for Membership / verfication done by OTp on phone.
+2.) Sign up and Become Members 
+2.) create profile -> with name or prfoile pic, email or phone number with age.
+----------------------------------------------------------------------------------------------------------------
+service for application for user -> Dateing service 
+
+Features ---> user get text box where they can type what type of date he/she want ->
+
+                  --> user can select type of date like -> Funny /cute/ talktive/LIstner / conservative
+                 ---> user can choose how they want thier date look like -> BY choosing dress.
+                -----> user will choose the date by selecting pic
+               ----> user can select Age bar between 18-45
+               ----->user  choose the location for date place
+               -- -> user can choose location where he or she want to meet with date 
+             -----> user have chooise to selected durtion for date according to that they have to pay for.
+ ---------------------------------------------------------------------------------------------------------------
+
+Person how Become Member ---> REGISTER And Sign up for Account 
+                         --> Add name/age / hight/ profile pic / About us.
+                         --> Have service to get Notification About Date and place and location /Specification
+                         --> Member should go offline when he don't want Accept any Date.
+
+
+
+
+
+
+
+
+                        
+
+
+
+
